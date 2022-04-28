@@ -6,7 +6,7 @@ Designing a board,
 Designating 2 players,
 Allowing for inputs into locations on board (marks),
 checking for win conditions,
-Check for draw conditions,
+Check for draw conditions,  
 Name decisive player the victor,
 Allow for replay.'''
 
