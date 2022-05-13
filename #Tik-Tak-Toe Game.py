@@ -14,9 +14,9 @@ Allow for replay.'''
 
 
 
-def main():
-    player = player_turn("")
-    welcoming = welcome()
+def main(): 
+    player = player_turn("") 
+    welcoming =  welcome() 
     numboard = create_board()
     print()
     print(welcoming)
