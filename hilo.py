@@ -9,7 +9,7 @@ def main():
         card = random.randint(1,13)
         print(card)
         card_list.append(card)
-        print(card_list)
+        print(card_list)  
         guess = input("Will the next card be higher or lower? [h/l] ")
         if guess == "h":
             if card > card_list[-1]:
